@@ -37,6 +37,7 @@ body {
 }
 
 .touches {
+
     margin-top: 5px;
     display: grid;
     grid-template-columns: repeat(4, 50px);
